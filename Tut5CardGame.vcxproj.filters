@@ -18,9 +18,15 @@
     <ClInclude Include="CardGame.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="DeckOfCards.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="CardGame.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DeckOfCards.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
